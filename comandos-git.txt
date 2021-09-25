@@ -1,0 +1,16 @@
+Programador 01 
+
+Inclusão de todos os Comandos:
+
+1. Git Init;
+2. Git Status;
+3. Git Add . ;
+4. Git Commit; 
+5. Git Log;
+6. Git Show;
+7. Git remote add origin;
+8. Git remote -v;
+9. Git Push;
+10. Git Pull;
+11. Git Clone;
+12. Git Checkout.
