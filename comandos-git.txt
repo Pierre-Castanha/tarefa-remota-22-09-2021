@@ -14,3 +14,6 @@ Inclusão de todos os Comandos:
 10. Git Pull;
 11. Git Clone;
 12. Git Checkout.
+
+Modificado através da Branch "teste-01"
+
