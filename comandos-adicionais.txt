@@ -1,0 +1,12 @@
+Programador 2
+
+1. git rm;
+2. git help:
+3. git rebase;
+4. git pull rebase;
+5. git cherry-pick;
+6. git archive;
+7. git blame;
+8. git tag;
+9. git diff;
+10 git citool;
